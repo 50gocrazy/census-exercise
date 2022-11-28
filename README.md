@@ -47,6 +47,10 @@ Installing dependencies:
 ```
 pip install -r requirements.txt
 ```
+
+### Upload input file
+Load input file (naming it `input.txt`) into the `input` directory. For your convenience, the intermediate files have been saved in the `intermediate` directory. (the input file is too large for the
+github file size limit).
 ## Run
 You'll need 3 shell windows, located in the directory where you have cloned the project.
 1) In one terminal, run `faktory`
