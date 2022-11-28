@@ -58,3 +58,4 @@ You'll need 3 shell windows, located in the directory where you have cloned the 
 3) In the third terminal, run `run python faktory_worker.py`
 
 Check the Faktory GUI: `http://localhost:7420/` . Output files will end up in the `output` directory. I left 1 file in the output as an example, as I did not have time to run the whole pipeline to completion.
+<img width="1355" alt="Screen Shot 2022-11-28 at 09 37 56" src="https://user-images.githubusercontent.com/11009722/204387570-4d31f7e6-c08c-440c-8812-6db962d81a97.png">
